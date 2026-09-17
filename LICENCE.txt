@@ -1,0 +1,57 @@
+Incident Response Playbook — Licence
+====================================
+
+Incident Response Playbook (the "Pack").
+Copyright (c) the Pack's author and publisher. All rights reserved except as
+granted below.
+
+You MAY:
+  - use these documents in unlimited personal and commercial projects
+  - use them inside your company, team, or organisation, including for internal
+    process documentation, onboarding, training, and incident reviews
+  - copy, modify, adapt, extend, rewrite, and re-brand them for your own use,
+    including changing severity definitions, response times, roles, and templates
+  - include adapted versions in your own internal runbooks, wiki, or knowledge base
+  - use them in paid client work and consulting engagements, provided the client
+    receives an adapted version as part of your deliverable and not the pack itself
+
+You MAY NOT:
+  - resell, redistribute, sublicense, or give away this pack, or a substantially
+    similar pack, as a product (whether paid or free)
+  - share the files publicly, or as a downloadable collection, bundle, torrent,
+    repository, or file-sharing link
+  - include the pack, or a lightly edited version of it, in a template, starter
+    kit, course, book, or membership that is sold or given away as a product
+  - claim authorship of the pack as a whole
+  - use the pack as the basis of a competing commercial product
+
+Attribution is appreciated but not required. If you adapt the material publicly
+(e.g. a blog post describing your process), a link back is welcome and never
+obligatory.
+
+No warranty
+-----------
+These documents are provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability, fitness
+for a particular purpose, and non-infringement. In no event shall the authors or
+copyright holders be liable for any claim, damages, or other liability, whether in
+an action of contract, tort, or otherwise, arising from, out of, or in connection
+with the documents or their use.
+
+Compliance notice
+-----------------
+This pack is a set of operational practices, not legal, regulatory, security, or
+compliance advice. Incident notification duties — regulatory, contractual, privacy,
+or sector-specific — are determined by your own obligations and applicable law.
+Nothing here substitutes for advice from your legal, privacy, or compliance
+function. Review any customer-facing communication in a security, privacy, or
+financial incident with the appropriate approver before it is sent.
+
+No statistics, benchmarks, or company examples in this pack describe any real
+organisation. Every number in [BRACKETS] is a placeholder for you to replace with
+a value appropriate to your context.
+
+Third-party names
+-----------------
+Any tool, vendor, or platform categories mentioned are generic descriptions.
+No endorsement, affiliation, or sponsorship is implied.
