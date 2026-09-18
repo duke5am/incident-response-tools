@@ -77,4 +77,4 @@ The paid pack adds `RUNBOOK.md` (mitigation first, and why rolling back usually
 beats debugging live), `ROLES.md` (what an incident commander must *not* do),
 `COMMS-TEMPLATES.md`, `DRILLS.md` and `ONCALL-HANDOFF.md`.
 
-→ **Incident Response Playbook**: <!-- GUMROAD-LINK -->
+→ More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
