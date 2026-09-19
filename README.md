@@ -76,4 +76,17 @@ The paid pack adds `RUNBOOK.md` (mitigation first, and why rolling back usually
 beats debugging live), `ROLES.md` (what an incident commander must *not* do),
 `COMMS-TEMPLATES.md`, `DRILLS.md` and `ONCALL-HANDOFF.md`.
 
+<!-- RELATED:START -->
+
+## Related tools
+
+- **[n8n-dead-branch-lint](https://github.com/duke5am/n8n-dead-branch-lint)** — Lint an exported n8n workflow for dead branches, dangling connections, unreachable nodes and hardcoded secrets, before it silently stops working.
+  *(if you were searching for "n8n workflow not running")*
+
+All 28 tools in this set, grouped by what they check: **[dev-tools-index](https://duke5am.github.io/dev-tools-index/)**
+
+If you arrived here searching for one of these, this is the tool: **incident severity matrix** · **sev level classification** · **postmortem template review** · **on call severity guide**
+
+<!-- RELATED:END -->
+
 → More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
