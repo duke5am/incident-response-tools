@@ -1,5 +1,4 @@
-# incident-response-tools
-
+# incident-severity-lint
 Classify an incident's severity by **user impact**, and lint the record so the
 postmortem is actually useful.
 
